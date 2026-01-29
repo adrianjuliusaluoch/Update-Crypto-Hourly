@@ -1,4 +1,4 @@
-name: Update Kaggle Hourly
+name: Update Kaggle Crypto Data Hourly
 
 on:
   schedule:
