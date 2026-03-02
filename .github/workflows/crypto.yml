@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # ✅ Enables manual trigger
   
 concurrency:
-  group: update-kaggle
+  group: update-crypto-kg
   cancel-in-progress: false
 
 permissions:
